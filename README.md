@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning **React.js, Machine Learning, and Data Science**
 
-- 👨‍💻 All of my projects are available at [rajan-kannaujiya GitHub](https://github.com/rajan-kannaujiya)
-
 - 💬 Ask me about **Django, Python, Power BI, and Frontend Development**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajan-kannaujiya)
-
-- 📄 Know more about me at [Portfolio Website](https://your-portfolio-link.com) <!-- replace if available -->
 
 ---
 
