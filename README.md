@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rajan Kannaujiya</h1>
+<!-- Waving Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=750&height=50&lines=Hi+There!+👋;I'm+Rajan+Kannaujiya;Final+Year+B.Tech+IT+Student;Aspiring+Data+Scientist;Full-Stack+Developer+💻&fontWeight=bold" alt="Typing SVG" />
+</p>
+
+
+
+
+
+
+
+---
 <h3 align="center">🚀 Aspiring Data Scientist| Full-Stack Developer | Final Year B.Tech IT Student </h3>
 
 ---
@@ -10,9 +21,18 @@
 - 💬 Ask me about **Django, Python, Power BI, and Frontend Development**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajan-kannaujiya)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" width="100%" />
-
-
+<h1 align="center">📫 Let's Connect</h1>
+<p align="center">
+  <a href="mailto:rajankannaujiya6171@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/rajan-kannaujiya">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="#">
+   <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -48,7 +68,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" width="100%" />
+
+
+<h1 align="center">🚀 Github Stats 🚀</h1>
+<div align="center">
+   
+  ![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajan-kannaujiya&show_icons=true&theme=tokyonight&count_private=true)
+
+</div>
+
+
+
+
+---
+
+
+
 
 
 
