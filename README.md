@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajan Kannaujiya</h1>
-<h3 align="center">🚀 Full-Stack Developer | Final Year B.Tech IT Student | Aspiring Data Scientist</h3>
+<h3 align="center">🚀 Aspiring Data Scientist| Full-Stack Developer | Final Year B.Tech IT Student </h3>
 
 ---
 
@@ -10,6 +10,9 @@
 - 💬 Ask me about **Django, Python, Power BI, and Frontend Development**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajan-kannaujiya)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" width="100%" />
+
+
 
 ---
 
@@ -45,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" />
 
 
 
