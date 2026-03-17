@@ -9,16 +9,18 @@
 
 
 
----
-<h3 align="center">🚀 Aspiring Data Scientist| Full-Stack Developer | Final Year B.Tech IT Student </h3>
+<h3 align="center">🚀 Data Science Enthusiast | Full-Stack Developer</h3>
 
 ---
 
-- 🔭 I’m currently working on **MADM and ML Enabled Consensus Mechanism Selection for Blockchain Applications**
+### 👨‍💻 About Me  
+- 💼 Working as **Station Controller @ Pune Metro (Keolis India Pvt. Ltd.)**  
+- 🎓 **B.Tech in Information Technology (Completed)**  
+- 🔭 Built **ML-based Consensus Mechanism Selection for Blockchain Applications**  
+- 🌱 Learning **Data Science, Machine Learning & React.js**  
+- 🧠 Good knowledge of **Computer Networks & Statistical Computing**  
 
-- 🌱 I’m currently learning **React.js, Machine Learning, and Data Science**
-
-- 💬 Ask me about **Django, Python, Power BI, and Frontend Development**
+---
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajan-kannaujiya)
 <h1 align="center">📫 Let's Connect</h1>
