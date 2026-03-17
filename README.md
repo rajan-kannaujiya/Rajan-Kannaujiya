@@ -1,6 +1,6 @@
 <!-- Waving Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=750&height=50&lines=Hi+There!+👋;I'm+Rajan+Kannaujiya;Final+Year+B.Tech+IT+Student;Aspiring+Data+Scientist;Full-Stack+Developer+💻&fontWeight=bold" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=750&height=50&lines=Hi+There!+👋;I'm+Rajan+Kannaujiya;Station+Controller;Aspiring+Data+Scientist;Full-Stack+Developer+💻&fontWeight=bold" alt="Typing SVG" />
 </p>
 
 
@@ -9,16 +9,16 @@
 
 
 
-<h3 align="center">🚀 Data Science Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">🚀 Station Controller | Data Science Enthusiast | Full-Stack Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me  
 - 💼 Working as **Station Controller @ Pune Metro (Keolis India Pvt. Ltd.)**  
-- 🎓 **B.Tech in Information Technology (Completed)**  
+- 🎓 **B.Tech in Information Technology **  
 - 🔭 Built **ML-based Consensus Mechanism Selection for Blockchain Applications**  
 - 🌱 Learning **Data Science, Machine Learning & React.js**  
-- 🧠 Good knowledge of **Computer Networks & Statistical Computing**  
+- 🧠  **Computer Networks & Statistical Computing**  
 
 ---
 
